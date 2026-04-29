@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'gtimes';
+    src: url(../assets/fontes/good_times/Good\ Times\ Rg.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+#gtimes{
+    font-family: 'gtimes', Arial, Helvetica, sans-serif;
+}
+@font-face {
+    font-family: 'luxo';
+    src: url(../assets/fontes/luxoorea/Luxoorea.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+#luxo {
+    font-family: 'luxo', Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+    

@@ -1,0 +1,1 @@
+<h1 class="text-3xl font-bold text-white gtimes -mt-10 mb-10">MARCAS MAIS PROCURADAS</h1>
